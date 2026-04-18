@@ -32,25 +32,15 @@ export default function LandingPage() {
       <NavbarStyleCentered
       navItems={[
         {
-          name: "Home",
-          id: "hero",
-        },
+          name: "Home",          id: "hero"},
         {
-          name: "About",
-          id: "about",
-        },
+          name: "About",          id: "about"},
         {
-          name: "Services",
-          id: "services",
-        },
+          name: "Services",          id: "services"},
         {
-          name: "Ecosystem",
-          id: "ecosystem",
-        },
+          name: "Ecosystem",          id: "ecosystem"},
         {
-          name: "Contact",
-          id: "contact",
-        },
+          name: "Contact",          id: "contact"},
       ]}
       brandName="Solid Seeds Inc."
     />
@@ -62,39 +52,23 @@ export default function LandingPage() {
       description="Where strategy, culture, and innovation grow into long-term stability."
       buttons={[
         {
-          text: "Start Your Consultation",
-          href: "#contact",
-        },
+          text: "Start Your Consultation",          href: "#contact"},
         {
-          text: "Learn More",
-          href: "#about",
-        },
+          text: "Learn More",          href: "#about"},
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/traditional-easter-eggs-concept_23-2148407667.jpg",
-          imageAlt: "Hero growth illustration",
-        },
+          imageSrc: "http://img.b2bpic.net/free-photo/traditional-easter-eggs-concept_23-2148407667.jpg",          imageAlt: "Hero growth illustration"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-composition-wallpaper-background-concept_1194-616972.jpg",
-          imageAlt: "Luxury consulting abstract",
-        },
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-composition-wallpaper-background-concept_1194-616972.jpg",          imageAlt: "Luxury consulting abstract"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/white-background-with-geometric-golden-lines_361591-5461.jpg",
-          imageAlt: "Growth rings visualization",
-        },
+          imageSrc: "http://img.b2bpic.net/free-photo/white-background-with-geometric-golden-lines_361591-5461.jpg",          imageAlt: "Growth rings visualization"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-gold-black-textured-painting_191095-100209.jpg",
-          imageAlt: "Innovation lines",
-        },
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-gold-black-textured-painting_191095-100209.jpg",          imageAlt: "Innovation lines"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/hand-holding-frame-with-equal-rights-symbol_23-2148415330.jpg",
-          imageAlt: "Strategic stability",
-        },
+          imageSrc: "http://img.b2bpic.net/free-photo/hand-holding-frame-with-equal-rights-symbol_23-2148415330.jpg",          imageAlt: "Strategic stability"},
         {
-          imageSrc: "http://img.b2bpic.net/free-vector/golden-lines-background-premium-styles_1017-37444.jpg",
-          imageAlt: "Cultural intelligence",
-        },
+          imageSrc: "http://img.b2bpic.net/free-vector/golden-lines-background-premium-styles_1017-37444.jpg",          imageAlt: "Cultural intelligence"},
       ]}
     />
   </div>
@@ -104,14 +78,7 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={true}
       names={[
-        "Leadership Co",
-        "Innovate Partners",
-        "Growth Initiative",
-        "Strategy Lab",
-        "Community Roots",
-        "Change Makers",
-        "Future Builders",
-      ]}
+        "Leadership Co",        "Innovate Partners",        "Growth Initiative",        "Strategy Lab",        "Community Roots",        "Change Makers",        "Future Builders"]}
       title="Trusted Partners"
       description="Trusted by community leaders, entrepreneurs, and organizations committed to real change."
     />
@@ -124,17 +91,11 @@ export default function LandingPage() {
       description="Solid Seeds Inc. blends lived experience, cultural intelligence, and strategic clarity to help individuals, businesses, and communities grow with intention. We don't guess. We build from real-world knowledge — the kind earned, not taught."
       metrics={[
         {
-          value: "10+",
-          title: "Years Experience",
-        },
+          value: "10+",          title: "Years Experience"},
         {
-          value: "100%",
-          title: "Intentional",
-        },
+          value: "100%",          title: "Intentional"},
         {
-          value: "Real",
-          title: "Impact",
-        },
+          value: "Real",          title: "Impact"},
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/gray-concrete-pillars_181624-1500.jpg"
       mediaAnimation="blur-reveal"
@@ -149,38 +110,17 @@ export default function LandingPage() {
       useInvertedBackground={true}
       features={[
         {
-          id: "f1",
-          title: "Real-Time Heat Maps",
-          author: "Systems",
-          description: "See risk as it emerges, not after the fact.",
-          tags: [
-            "Safety",
-            "Data",
-          ],
-          imageSrc: "http://img.b2bpic.net/free-photo/business-network-background-connecting-dots-technology-design_53876-160210.jpg",
-        },
+          id: "f1",          title: "Real-Time Heat Maps",          author: "Systems",          description: "See risk as it emerges, not after the fact.",          tags: [
+            "Safety",            "Data"],
+          imageSrc: "http://img.b2bpic.net/free-photo/business-network-background-connecting-dots-technology-design_53876-160210.jpg"},
         {
-          id: "f2",
-          title: "Verified Guardian Network",
-          author: "Community",
-          description: "Community-powered safety and communication.",
-          tags: [
-            "Safety",
-            "Growth",
-          ],
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-network-communications-background-with-low-poly-plexus-design_1048-15687.jpg",
-        },
+          id: "f2",          title: "Verified Guardian Network",          author: "Community",          description: "Community-powered safety and communication.",          tags: [
+            "Safety",            "Growth"],
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-network-communications-background-with-low-poly-plexus-design_1048-15687.jpg"},
         {
-          id: "f3",
-          title: "SCR Incentive System",
-          author: "Value",
-          description: "Earn value by contributing verified truth.",
-          tags: [
-            "Value",
-            "Truth",
-          ],
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-digital-tunnel_23-2152020936.jpg",
-        },
+          id: "f3",          title: "SCR Incentive System",          author: "Value",          description: "Earn value by contributing verified truth.",          tags: [
+            "Value",            "Truth"],
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-digital-tunnel_23-2152020936.jpg"},
       ]}
       title="The Life Navigator Ecosystem"
       description="A real-time safety and empowerment system built for modern communities."
@@ -195,53 +135,23 @@ export default function LandingPage() {
       useInvertedBackground={false}
       products={[
         {
-          id: "s1",
-          name: "Business & Creative Consulting",
-          brand: "Strategy",
-          price: "Custom",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/blurred-night-lights_23-2148139370.jpg",
-        },
+          id: "s1",          name: "Business & Creative Consulting",          brand: "Strategy",          price: "Custom",          rating: 5,
+          reviewCount: "10+",          imageSrc: "http://img.b2bpic.net/free-photo/blurred-night-lights_23-2148139370.jpg"},
         {
-          id: "s2",
-          name: "Community Impact",
-          brand: "Outreach",
-          price: "Custom",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/office-worker-analyzing-business-charts-laptop-using-paperwork-research-information-make-data-report-working-from-home-startup-analysis-with-web-graphs-browsing-internet_482257-50961.jpg",
-        },
+          id: "s2",          name: "Community Impact",          brand: "Outreach",          price: "Custom",          rating: 5,
+          reviewCount: "10+",          imageSrc: "http://img.b2bpic.net/free-photo/office-worker-analyzing-business-charts-laptop-using-paperwork-research-information-make-data-report-working-from-home-startup-analysis-with-web-graphs-browsing-internet_482257-50961.jpg"},
         {
-          id: "s3",
-          name: "Program Design",
-          brand: "Learning",
-          price: "Custom",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-businessman-analyzing-annual-report_1098-3061.jpg",
-        },
+          id: "s3",          name: "Program Design",          brand: "Learning",          price: "Custom",          rating: 5,
+          reviewCount: "10+",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-businessman-analyzing-annual-report_1098-3061.jpg"},
         {
-          id: "s4",
-          name: "Organizational Structure",
-          brand: "Ops",
-          price: "Custom",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/financial-broker-analyzing-stock-trade-market-computer-using-exchange-hedge-fund-statistics-create-investment-profit-entrepreneur-working-with-forex-real-time-sales-trend-handheld-shot_482257-40951.jpg",
-        },
+          id: "s4",          name: "Organizational Structure",          brand: "Ops",          price: "Custom",          rating: 5,
+          reviewCount: "10+",          imageSrc: "http://img.b2bpic.net/free-photo/financial-broker-analyzing-stock-trade-market-computer-using-exchange-hedge-fund-statistics-create-investment-profit-entrepreneur-working-with-forex-real-time-sales-trend-handheld-shot_482257-40951.jpg"},
         {
-          id: "s5",
-          name: "Risk Strategy",
-          brand: "Safety",
-          price: "Custom",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/futuristic-science-fiction-tunnel-corridor-with-lines-gold-brown-yellow-lights_181624-34489.jpg",
-        },
+          id: "s5",          name: "Risk Strategy",          brand: "Safety",          price: "Custom",          rating: 5,
+          reviewCount: "10+",          imageSrc: "http://img.b2bpic.net/free-photo/futuristic-science-fiction-tunnel-corridor-with-lines-gold-brown-yellow-lights_181624-34489.jpg"},
         {
-          id: "s6",
-          name: "Framework Development",
-          brand: "Growth",
-          price: "Custom",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/business-chart-visual-graphics-report-concept_53876-167093.jpg",
-        },
+          id: "s6",          name: "Framework Development",          brand: "Growth",          price: "Custom",          rating: 5,
+          reviewCount: "10+",          imageSrc: "http://img.b2bpic.net/free-photo/business-chart-visual-graphics-report-concept_53876-167093.jpg"},
       ]}
       title="Consulting With Purpose"
       description="Precision. Clarity. Real-world results."
@@ -252,23 +162,15 @@ export default function LandingPage() {
       <MetricCardTwo
       textboxLayout="default"
       gridVariant="bento-grid"
+      animationType="slide-up"
       useInvertedBackground={true}
       metrics={[
         {
-          id: "m1",
-          value: "10+",
-          description: "Years of lived expertise",
-        },
+          id: "m1",          value: "10+",          description: "Years of lived expertise"},
         {
-          id: "m2",
-          value: "100%",
-          description: "Community-centered innovation",
-        },
+          id: "m2",          value: "100%",          description: "Community-centered innovation"},
         {
-          id: "m3",
-          value: "Daily",
-          description: "Real-time safety solutions",
-        },
+          id: "m3",          value: "Daily",          description: "Real-time safety solutions"},
       ]}
       title="Plant the Seed. Build the Roots. Grow the Future."
       description="We design systems that help people rise — not systems that punish them for struggling. Every strategy we create is intentional, culturally grounded, and built for long-term impact."
@@ -282,13 +184,9 @@ export default function LandingPage() {
       description="We partner with local organizations and communities to implement frameworks that drive sustainable safety, empowerment, and economic growth through verified, culturally-aligned intelligence."
       metrics={[
         {
-          value: "100+",
-          title: "Projects",
-        },
+          value: "100+",          title: "Projects"},
         {
-          value: "50+",
-          title: "Communities",
-        },
+          value: "50+",          title: "Communities"},
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/growth-status-technology-online-website-concept_53876-21396.jpg"
       mediaAnimation="slide-up"
@@ -304,25 +202,15 @@ export default function LandingPage() {
       author="Sarah J., Community Leader"
       avatars={[
         {
-          src: "http://img.b2bpic.net/free-photo/afroamerican-businessman-wearing-headphones_23-2148508923.jpg",
-          alt: "Sarah J",
-        },
+          src: "http://img.b2bpic.net/free-photo/afroamerican-businessman-wearing-headphones_23-2148508923.jpg",          alt: "Sarah J"},
         {
-          src: "http://img.b2bpic.net/free-photo/portrait-modern-businesswoman-standing_23-2148204492.jpg",
-          alt: "Michael C",
-        },
+          src: "http://img.b2bpic.net/free-photo/portrait-modern-businesswoman-standing_23-2148204492.jpg",          alt: "Michael C"},
         {
-          src: "http://img.b2bpic.net/free-photo/businessman-smiling-looking-camera_23-2148112827.jpg",
-          alt: "Emily R",
-        },
+          src: "http://img.b2bpic.net/free-photo/businessman-smiling-looking-camera_23-2148112827.jpg",          alt: "Emily R"},
         {
-          src: "http://img.b2bpic.net/free-photo/black-businessman-sad-expression_1194-2583.jpg",
-          alt: "David K",
-        },
+          src: "http://img.b2bpic.net/free-photo/black-businessman-sad-expression_1194-2583.jpg",          alt: "David K"},
         {
-          src: "http://img.b2bpic.net/free-photo/medium-shot-transgender-wearing-shells-necklace_23-2149105401.jpg",
-          alt: "Jessica L",
-        },
+          src: "http://img.b2bpic.net/free-photo/medium-shot-transgender-wearing-shells-necklace_23-2149105401.jpg",          alt: "Jessica L"},
       ]}
       ratingAnimation="slide-up"
       avatarsAnimation="blur-reveal"
@@ -336,16 +224,10 @@ export default function LandingPage() {
       description="Let’s turn your vision into structure, strategy, and long-term stability."
       inputs={[
         {
-          name: "name",
-          type: "text",
-          placeholder: "Your Name",
-          required: true,
+          name: "name",          type: "text",          placeholder: "Your Name",          required: true,
         },
         {
-          name: "email",
-          type: "email",
-          placeholder: "Your Email",
-          required: true,
+          name: "email",          type: "email",          placeholder: "Your Email",          required: true,
         },
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/portrait-adult-businesswoman-talking-phone_23-2148452718.jpg"
@@ -356,54 +238,33 @@ export default function LandingPage() {
       <FooterBase
       columns={[
         {
-          title: "Solid Seeds Inc.",
-          items: [
+          title: "Solid Seeds Inc.",          items: [
             {
-              label: "Experience-Driven Consulting",
-              href: "#",
-            },
+              label: "Experience-Driven Consulting",              href: "#"},
           ],
         },
         {
-          title: "Navigate",
-          items: [
+          title: "Navigate",          items: [
             {
-              label: "Home",
-              href: "#hero",
-            },
+              label: "Home",              href: "#hero"},
             {
-              label: "About",
-              href: "#about",
-            },
+              label: "About",              href: "#about"},
             {
-              label: "Services",
-              href: "#services",
-            },
+              label: "Services",              href: "#services"},
             {
-              label: "Ecosystem",
-              href: "#ecosystem",
-            },
+              label: "Ecosystem",              href: "#ecosystem"},
             {
-              label: "Contact",
-              href: "#contact",
-            },
+              label: "Contact",              href: "#contact"},
           ],
         },
         {
-          title: "Support",
-          items: [
+          title: "Support",          items: [
             {
-              label: "Email Us",
-              href: "mailto:hello@solidseeds.com",
-            },
+              label: "Email Us",              href: "mailto:hello@solidseeds.com"},
             {
-              label: "Twitter",
-              href: "https://twitter.com",
-            },
+              label: "Twitter",              href: "https://twitter.com"},
             {
-              label: "LinkedIn",
-              href: "https://linkedin.com",
-            },
+              label: "LinkedIn",              href: "https://linkedin.com"},
           ],
         },
       ]}

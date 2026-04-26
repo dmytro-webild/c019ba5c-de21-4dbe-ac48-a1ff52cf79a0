@@ -154,7 +154,7 @@ export default function LandingPage() {
           reviewCount: "10+",          imageSrc: "http://img.b2bpic.net/free-photo/business-chart-visual-graphics-report-concept_53876-167093.jpg"},
       ]}
       title="Consulting With Purpose"
-      description="Precision. Clarity. Real-world results."
+      description="Precision-driven consulting frameworks designed to transform complex challenges into sustainable, measurable impact."
     />
   </div>
 

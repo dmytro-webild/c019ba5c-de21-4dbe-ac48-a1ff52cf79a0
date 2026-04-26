@@ -221,7 +221,7 @@ export default function LandingPage() {
       <ContactSplitForm
       useInvertedBackground={false}
       title="Ready to Build Something Real?"
-      description="Let’s turn your vision into structure, strategy, and long-term stability."
+      description="Let’s turn your vision into structure, strategy, and long-term stability. Receive a consultation response within 48 hours."
       inputs={[
         {
           name: "name",          type: "text",          placeholder: "Your Name",          required: true,

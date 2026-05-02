@@ -88,7 +88,7 @@ export default function LandingPage() {
       <MetricSplitMediaAbout
       useInvertedBackground={false}
       title="A Non-Traditional Consulting Agency"
-      description="Solid Seeds Inc. blends lived experience, cultural intelligence, and strategic clarity to help individuals, businesses, and communities grow with intention. We don't guess. We build from real-world knowledge — the kind earned, not taught. Your main contact is Mr. Bagley, COO."
+      description="Solid Seeds Inc. blends lived experience, cultural intelligence, and strategic clarity to help individuals, businesses, and communities grow with intention. We don't guess. We build from real-world knowledge — the kind earned, not taught."
       metrics={[
         {
           value: "10+",          title: "Years Experience"},
@@ -154,7 +154,7 @@ export default function LandingPage() {
           reviewCount: "10+",          imageSrc: "http://img.b2bpic.net/free-photo/business-chart-visual-graphics-report-concept_53876-167093.jpg"},
       ]}
       title="Consulting With Purpose"
-      description="Precision-driven consulting frameworks designed to transform complex challenges into sustainable, measurable impact. Reach out to Mr. Bagley, COO, to learn more."
+      description="Precision-driven consulting frameworks designed to transform complex challenges into sustainable, measurable impact."
     />
   </div>
 
@@ -221,7 +221,7 @@ export default function LandingPage() {
       <ContactSplitForm
       useInvertedBackground={false}
       title="Ready to Build Something Real?"
-      description="Let’s turn your vision into structure, strategy, and long-term stability. Direct your inquiries to Mr. Bagley, COO. Receive a consultation response within 48 hours."
+      description="Let’s turn your vision into structure, strategy, and long-term stability. Receive a consultation response within 48 hours."
       inputs={[
         {
           name: "name",          type: "text",          placeholder: "Your Name",          required: true,
@@ -258,11 +258,13 @@ export default function LandingPage() {
           ],
         },
         {
-          title: "Contact Person",          items: [
-            {
-              label: "Mr. Bagley, COO",              href: "#"},
+          title: "Support",          items: [
             {
               label: "Email Us",              href: "mailto:hello@solidseeds.com"},
+            {
+              label: "Twitter",              href: "https://twitter.com"},
+            {
+              label: "LinkedIn",              href: "https://linkedin.com"},
           ],
         },
       ]}

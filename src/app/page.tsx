@@ -52,7 +52,7 @@ export default function LandingPage() {
       description="Where strategy, culture, and innovation grow into long-term stability."
       buttons={[
         {
-          text: "Start Your Consultation",          href: "#contact"},
+          text: "Book Your Strategy Session",          href: "#contact"},
         {
           text: "Learn More",          href: "#about"},
       ]}
